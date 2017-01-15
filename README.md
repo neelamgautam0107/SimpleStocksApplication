@@ -1,4 +1,5 @@
 # SimpleStocksApplication
+Super simple stocks is an application to manage trades on a set of stocks in the market.
 
 ## Problem Statement
 
